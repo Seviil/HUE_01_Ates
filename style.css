@@ -1,6 +1,6 @@
 body{
 
-background-color:#C0C0C0;}
+background-color:#eee0e5}
 
 .impress{
 
@@ -13,7 +13,7 @@ h1{
 font-size:70px;
 font-weight:bold;
 font-family: cursive, "Brush Script", sans;
-color:#616161;
+color:#F;
 margin-top:50px;
 margin-bottom:30px;
 }
@@ -36,12 +36,12 @@ margin-left:500px;}
 
 .navbar{
 text-decoration:none;
-background-color:#c1cdc1;
+background-color:#ffe4e1;
 }
 
 
 .container{
-background-color:#c1cdc1;
+background-color:#ffe4e1;
 
 }
 
@@ -51,7 +51,7 @@ margin-left:500px;}
 
 a{
 text-decoration:none;
-color:#556B2F;
+color:#006400;
 }
 
 .bild{
