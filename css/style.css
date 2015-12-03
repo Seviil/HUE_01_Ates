@@ -1,0 +1,102 @@
+head{
+
+background-color:#eee0e5;
+}
+
+#body{
+background-color:#eee0e5;
+}
+
+h2 > a{
+
+color:#2B371B;
+text-decoration:none;
+ font-weight: bold;
+
+}
+
+.impress{
+
+ margin-left: auto;
+ margin-right: auto;
+ width: 70em;
+}
+
+h1{
+font-size:70px;
+font-weight:bold;
+font-family: cursive, "Brush Script", sans;
+color: #000000;
+margin-top:50px;
+margin-bottom:30px;
+}
+
+
+
+
+h2{
+color:#000000;
+font-size:30px;
+font-family:cursive;
+}
+
+h4{
+color:#000000;
+font-size:30px;
+font-family:cursive;
+}
+
+
+
+.navbar{
+text-decoration:none;
+background-color:#eee0e5;
+}
+
+
+.container{
+background-color:#ffe4e1;
+
+}
+
+img{
+
+margin-left:500px;}
+
+
+
+
+.button{
+
+margin-left:500px;}
+
+.lifa{
+	text-shadow: white 0.1em 0.1em 0.2em;
+	color:#8b4513;
+}
+
+#suche{
+
+margin-left: 500px;}
+
+#wiki{
+
+border:0; 
+margin-left :500px;
+ 
+}
+
+.imp{
+margin-left:30px;}
+
+
+.wave{
+margin-top:300px;
+margin-left:600px;
+}
+
+.pic{
+
+min-height: 10em;
+    display: table-cell;
+    vertical-align: middle; }
