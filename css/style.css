@@ -1,10 +1,10 @@
 head{
 
-background-color:#c0c0c0c;
+background-color:#eee0e5;
 }
 
 #body{
-background-color:#c0c0c0;
+background-color:#eee0e5;
 }
 
 h2 > a{
@@ -26,7 +26,7 @@ h1{
 font-size:70px;
 font-weight:bold;
 font-family: cursive, "Brush Script", sans;
-color: #2472a4;
+color: #000000;
 margin-top:50px;
 margin-bottom:30px;
 }
@@ -35,13 +35,13 @@ margin-bottom:30px;
 
 
 h2{
-color:#2472a4;
+color:#000000;
 font-size:30px;
 font-family:cursive;
 }
 
 h4{
-color:#2472a4;
+color:#000000;
 font-size:30px;
 font-family:cursive;
 }
@@ -50,7 +50,7 @@ font-family:cursive;
 
 .navbar{
 text-decoration:none;
-background-color:#c0c0c0;
+background-color:#eee0e5;
 }
 
 
